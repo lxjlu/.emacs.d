@@ -79,7 +79,7 @@
  '(org-refile-use-outline-path (quote file))
  '(package-selected-packages
    (quote
-    (lsp-ui company-lsp lsp-mode pyvenv srcery-theme sublime-themes light-soap-theme jbeans-theme professional-theme sunny-day-theme exotica-theme sublime-theme dracula-theme leuven-theme helm-themes spacemacs-theme subtle-hacker solarized-theme flyspell-correct-avy-menu abbrev flyspell-correct-ivy zenburn-theme color-theme swiper monokai-theme cdlatex auctex sudo-edit switch-window hungry-delete which-key rainbow-delimiters rainbow-mode smex ido-vertical-mode htmlize popup-kill-ring all-the-icons undo-tree smart-mode-line avy exec-path-from-shell beacon diminish company org-bullets use-package)))
+    (elpy lsp-ui company-lsp lsp-mode pyvenv srcery-theme sublime-themes light-soap-theme jbeans-theme professional-theme sunny-day-theme exotica-theme sublime-theme dracula-theme leuven-theme helm-themes spacemacs-theme subtle-hacker solarized-theme flyspell-correct-avy-menu abbrev flyspell-correct-ivy zenburn-theme color-theme swiper monokai-theme cdlatex auctex sudo-edit switch-window hungry-delete which-key rainbow-delimiters rainbow-mode smex ido-vertical-mode htmlize popup-kill-ring all-the-icons undo-tree smart-mode-line avy exec-path-from-shell beacon diminish company org-bullets use-package)))
  '(pdf-view-midnight-colors (quote ("#DCDCCC" . "#383838")))
  '(pos-tip-background-color "#2e2e2d")
  '(pos-tip-foreground-color "#989790")
